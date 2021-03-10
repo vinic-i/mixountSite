@@ -12,9 +12,9 @@
 				<li><a class="nav-link scrollto active" href="#hero">Início</a></li>
 				<li><a class="nav-link scrollto" href="#about">Sobre</a></li>
 				<li><a class="nav-link scrollto" href="#services">Serviços</a></li>
-				<li><a class="nav-link scrollto" href="#portfolio">Portfólio</a></li>
+				<!-- <li><a class="nav-link scrollto" href="#portfolio">Portfólio</a></li> -->
 				<li><a class="nav-link scrollto" href="#team">Nosso Time</a></li>
-				<li class="dropdown"><a href="."><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+				<!-- <li class="dropdown"><a href="."><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
 					<ul>
 						<li><a href=".">Drop Down 1</a></li>
 						<li class="dropdown"><a href="."><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
@@ -30,9 +30,9 @@
 						<li><a href=".">Drop Down 3</a></li>
 						<li><a href=".">Drop Down 4</a></li>
 					</ul>
-				</li>
+				</li> -->
 				<li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-				<li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+				<li><a class="getstarted scrollto" href="#services">Começar</a></li>
 			</ul>
 			<i class="bi bi-list mobile-nav-toggle"></i>
 		</nav>

@@ -9,24 +9,26 @@
                     data-aos-delay="200"
                 >
                     <div class="content">
-                        <h3>Who We Are</h3>
+                        <h3>Quem somos</h3>
                         <h2>
-                            Expedita voluptas omnis cupiditate totam eveniet
-                            nobis sint iste. Dolores est repellat corrupti
-                            reprehenderit.
+                            A Mixout NT cria e oferece soluções práticas,
+                            inteligentes e tecnológicas para outras empresas.
                         </h2>
                         <p>
-                            Quisquam vel ut sint cum eos hic dolores aperiam.
-                            Sed deserunt et. Inventore et et dolor consequatur
-                            itaque ut voluptate sed et. Magnam nam ipsum tenetur
-                            suscipit voluptatum nam et est corrupti.
+                            Nós não somos apenas uma sturtup, mas também um novo
+                            conceito de mercado digital, com produtos criados e
+                            patentiados pela nossa equipe com intuito de
+                            facilitar atividades diversas para outro negócios.
+                            Nosso objetivo é poder ajudar diversas empresas no
+                            mundo a se desenvolverem de forma mais eficiênte
+                            através da tecnologia.
                         </p>
                         <div class="text-center text-lg-start">
                             <a
                                 href="."
                                 class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center"
                             >
-                                <span>Read More</span>
+                                <span>Saiba Mais</span>
                                 <i class="bi bi-arrow-right" />
                             </a>
                         </div>
@@ -46,15 +48,15 @@
     <section id="values" class="values">
         <div class="container" data-aos="fade-up">
             <header class="section-header">
-                <h2>Our Values</h2>
-                <p>Odit est perspiciatis laborum et dicta</p>
+                <h2>Nossos Valores</h2>
+                <p>Valores do nosso time</p>
             </header>
 
             <div class="row">
                 <div class="col-lg-4">
                     <div class="box" data-aos="fade-up" data-aos-delay="200">
                         <img src="img/values-1.png" class="img-fluid" alt="" />
-                        <h3>Ad cupiditate sed est odio</h3>
+                        <h3>Empatia</h3>
                         <p>
                             Eum ad dolor et. Autem aut fugiat debitis voluptatem
                             consequuntur sit. Et veritatis id.
@@ -65,7 +67,7 @@
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box" data-aos="fade-up" data-aos-delay="400">
                         <img src="img/values-2.png" class="img-fluid" alt="" />
-                        <h3>Voluptatem voluptatum alias</h3>
+                        <h3>Desenvolver</h3>
                         <p>
                             Repudiandae amet nihil natus in distinctio suscipit
                             id. Doloremque ducimus ea sit non.
@@ -76,7 +78,7 @@
                 <div class="col-lg-4 mt-4 mt-lg-0">
                     <div class="box" data-aos="fade-up" data-aos-delay="600">
                         <img src="img/values-3.png" class="img-fluid" alt="" />
-                        <h3>Fugit cupiditate alias nobis.</h3>
+                        <h3>Realizar</h3>
                         <p>
                             Quam rem vitae est autem molestias explicabo debitis
                             sint. Vero aliquid quidem commodi.

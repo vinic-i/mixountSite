@@ -33,7 +33,7 @@
                         <span>Mixou NT</span>
                     </a>
                     <p>
-                        Nossa missão é desenvolver soluções de negócios através da tecnogolia. </p>
+                        Desenvolvendo soluções de negócios através da tecnogolia. </p>
                     <div class="social-links mt-3">
                         <a href="." class="twitter"
                             ><i class="bi bi-twitter" /></a
@@ -81,24 +81,24 @@
                     <ul>
                         <li>
                             <i class="bi bi-chevron-right" />
+                            <a href=".">Mixou Escola</a>
+                        </li>
+                        <li>
+                            <i class="bi bi-chevron-right" />
+                            <a href=".">Pessoas como serviço</a>
+                        </li>
+                        <li>
+                            <i class="bi bi-chevron-right" />
                             <a href=".">Web Design</a>
                         </li>
-                        <li>
-                            <i class="bi bi-chevron-right" />
-                            <a href=".">Web Development</a>
-                        </li>
-                        <li>
-                            <i class="bi bi-chevron-right" />
-                            <a href=".">Product Management</a>
-                        </li>
-                        <li>
+                        <!-- <li>
                             <i class="bi bi-chevron-right" />
                             <a href=".">Marketing</a>
                         </li>
                         <li>
                             <i class="bi bi-chevron-right" />
                             <a href=".">Graphic Design</a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
 

@@ -7,13 +7,13 @@
 
         <div class="row gy-4">
             <div
-                class="col-lg-4 col-md-6"
+                class="col-lg-3 col-md-6"
                 data-aos="fade-up"
                 data-aos-delay="200"
             >
                 <div class="service-box blue">
                     <i class="ri-discuss-line icon" />
-                    <h3>Dashboard da Escola</h3>
+                    <h3>Mixou Escola</h3>
                     <p>
                         Já imaginou toda a gestão da sua escola/academia
                         facilitada na tela do computador? Pode dar "adeus" a
@@ -27,7 +27,7 @@
             </div>
 
             <div
-                class="col-lg-4 col-md-6"
+                class="col-lg-3 col-md-6"
                 data-aos="fade-up"
                 data-aos-delay="300"
             >
@@ -47,7 +47,7 @@
             </div>
 
             <div
-                class="col-lg-4 col-md-6"
+                class="col-lg-3 col-md-6"
                 data-aos="fade-up"
                 data-aos-delay="400"
             >
@@ -67,7 +67,7 @@
             </div>
 
             <div
-                class="col-lg-4 col-md-6"
+                class="col-lg-3 col-md-6"
                 data-aos="fade-up"
                 data-aos-delay="500"
             >
@@ -86,8 +86,8 @@
                 </div>
             </div>
 
-            <div
-                class="col-lg-4 col-md-6"
+            <!-- <div
+                class="col-lg-3 col-md-6"
                 data-aos="fade-up"
                 data-aos-delay="600"
             >
@@ -107,7 +107,7 @@
             </div>
 
             <div
-                class="col-lg-4 col-md-6"
+                class="col-lg-3 col-md-6"
                 data-aos="fade-up"
                 data-aos-delay="700"
             >
@@ -122,7 +122,7 @@
                         <i class="bi bi-arrow-right" /></a
                     >
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
