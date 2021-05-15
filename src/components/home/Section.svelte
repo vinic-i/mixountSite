@@ -11,7 +11,7 @@
                     <div class="content">
                         <h3>Quem somos</h3>
                         <h2>
-                            A Mixout NT cria e oferece soluções práticas,
+                            A Mixou cria e oferece soluções práticas,
                             inteligentes e tecnológicas para outras empresas.
                         </h2>
                         <p>

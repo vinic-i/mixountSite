@@ -10,7 +10,7 @@
     import Testimonials from "../components/home/Testimonials.svelte";
 </script>
 
-<svelte:head><title>Mixou NT</title></svelte:head>
+<svelte:head><title>Mixou</title></svelte:head>
 
 <!-- 
     

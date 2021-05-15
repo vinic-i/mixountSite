@@ -30,7 +30,7 @@
                 <div class="col-lg-5 col-md-12 footer-info">
                     <a href="index.html" class="logo d-flex align-items-center">
                         <img src="assets/img/logo.png" alt="" />
-                        <span>Mixou NT</span>
+                        <span>Mixou</span>
                     </a>
                     <p>
                         Desenvolvendo soluções de negócios através da tecnogolia. </p>
@@ -51,7 +51,7 @@
                 </div>
 
                 <div class="col-lg-2 col-6 footer-links">
-                    <h4>Mixou NT</h4>
+                    <h4>Mixou</h4>
                     <ul>
                         <li>
                             <i class="bi bi-chevron-right" />
@@ -118,7 +118,7 @@
 
     <div class="container">
         <div class="copyright">
-            &copy; Copyright <strong><span>Mixou NT</span></strong>. All Rights
+            &copy; Copyright <strong><span>Mixou</span></strong>. All Rights
             Reserved
         </div>
         <div class="credits">
@@ -126,7 +126,7 @@
             <!-- You can delete the links only if you purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flexstart-bootstrap-startup-template/ -->
-            Designed by Mixou NT
+            Designed by Mixou
         </div>
     </div>
 </footer>

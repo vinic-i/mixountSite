@@ -4,7 +4,7 @@
 		
 		<a href="index.html" class="logo d-flex align-items-center">
 			<img src="img/logo.png" alt="">
-			<span>Mixou NT</span>
+			<span>Mixou</span>
 		</a>
 		
 		<nav id="navbar" class="navbar">
@@ -31,7 +31,7 @@
 						<li><a href=".">Drop Down 4</a></li>
 					</ul>
 				</li> -->
-				<li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+				<li><a class="nav-link scrollto" href="#contact">Contatar</a></li>
 				<li><a class="getstarted scrollto" href="#services">Começar</a></li>
 			</ul>
 			<i class="bi bi-list mobile-nav-toggle"></i>
