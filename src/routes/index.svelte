@@ -15,7 +15,10 @@
 <!-- 
     
 -->
-<Hero />
+<Hero
+    title="Nós oferecemos soluções modernas para o crescimento do seu negócio."
+    showButton={false}
+/>
 <Section />
 <Services />
 <OurTeam />
