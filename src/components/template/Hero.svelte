@@ -1,7 +1,8 @@
 <script>
 
-	export let title=""
-	export let showButton = true
+	export let title="Nós oferecemos soluções modernas para o crescimento do seu negócio.";
+	export let subTitle="Somos o time Mixou";
+	export let showButton = true;
 </script>
 
 <section id="hero" class="hero d-flex align-items-center">
@@ -10,7 +11,7 @@
 		<div class="row">
 			<div class="col-lg-6 d-flex flex-column justify-content-center">
 				<h1 data-aos="fade-up">{title}</h1>
-				<h2 data-aos="fade-up" data-aos-delay="400">Somos o time Mixou</h2>
+				<h2 data-aos="fade-up" data-aos-delay="400">{subTitle}</h2>
 				{#if showButton == true}
 				<div data-aos="fade-up" data-aos-delay="600">
 					<div class="text-center text-lg-start">

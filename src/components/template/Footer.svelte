@@ -1,5 +1,5 @@
 <script>
-    import {city, country, address, contactEmail, phoneNumber} from "../config"
+    import {city, country, address, contactEmail, phoneNumber} from "../../config"
 </script>
 
 <footer id="footer" class="footer">

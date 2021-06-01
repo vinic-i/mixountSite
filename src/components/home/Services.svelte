@@ -11,19 +11,22 @@
                 data-aos="fade-up"
                 data-aos-delay="200"
             >
-                <div class="service-box blue">
+               <a href="portal-mixou"> <div class="service-box blue">
                     <i class="ri-discuss-line icon" />
                     <h3>Mixou Escola</h3>
+                    <br>
                     <p>
                         Já imaginou toda a gestão da sua escola/academia
                         facilitada na tela do computador? Pode dar "adeus" a
                         papelada, e falar "olá" para eficiência.
+                        <br>
                         <a href="." class="read-more"
                             ><span>Saiba mais</span>
                             <i class="bi bi-arrow-right" /></a
                         >
                     </p>
                 </div>
+            </a>
             </div>
 
             <div
@@ -54,6 +57,7 @@
                 <div class="service-box green">
                     <i class="ri-discuss-line icon" />
                     <h3>Web Design</h3>
+                    <br>
                     <p>
                         Seu negócio está precisando de maior vizibilidade
                         digital? A Mixou tem uma equipe de design e progamadores

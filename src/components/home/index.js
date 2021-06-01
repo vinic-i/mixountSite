@@ -1,4 +1,3 @@
-import Hero from './Hero.svelte'
 import Features from './Features.svelte'
 import Services from './Services.svelte'
 import Catalog from './Catalog.svelte'
@@ -12,7 +11,6 @@ import Newsletter from './Newsletter.svelte'
 
 
 export {
-    Hero,
     Features,
     Services,
     Catalog,
